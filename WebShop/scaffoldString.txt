@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -Connection "Data Source=UNKNOWN\LOCALHOST;Initial Catalog=WebShop;Persist Security Info=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -ContextDir "C:\Projects\WebShop\WebShop.DataAccess" -ContextNamespace "WebShopDbContect"

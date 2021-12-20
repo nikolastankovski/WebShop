@@ -1,0 +1,15 @@
+C:\Projects\WebShop\WebShop.DataAccess\bin\Debug\net6.0\WebShop.DataAccess.deps.json
+C:\Projects\WebShop\WebShop.DataAccess\bin\Debug\net6.0\WebShop.DataAccess.dll
+C:\Projects\WebShop\WebShop.DataAccess\bin\Debug\net6.0\ref\WebShop.DataAccess.dll
+C:\Projects\WebShop\WebShop.DataAccess\bin\Debug\net6.0\WebShop.DataAccess.pdb
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.AssemblyInfo.cs
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.dll
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\ref\WebShop.DataAccess.dll
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.pdb
+C:\Projects\WebShop\WebShop.DataAccess\bin\Debug\net6.0\WebShop.Domain.dll
+C:\Projects\WebShop\WebShop.DataAccess\bin\Debug\net6.0\WebShop.Domain.pdb
+C:\Projects\WebShop\WebShop.DataAccess\obj\Debug\net6.0\WebShop.DataAccess.csproj.CopyComplete
